@@ -3,31 +3,6 @@
 <hr />
 </div>
 
-
-<div class="col-md-12 text-center">
- <a href="<?php echo $base_url; ?>/about" class="link-dark-not-underline">About</a> 
-|
- <a href="<?php echo $base_url; ?>/terms" class="link-dark-not-underline">Terms</a> 
-
-|
- <a href="<?php echo $base_url; ?>/privacy" class="link-dark-not-underline">Privacy</a> 
-|
- <a href="<?php echo $base_url; ?>/jobs" class="link-dark-not-underline">Jobs</a> 
-
-|
-
-
- <a href="<?php echo $base_url; ?>/payment_confirm" class="link-dark-not-underline">แจ้งโอนเงิน</a> 
-|
- <a href="<?php echo $base_url; ?>/track" class="link-dark-not-underline">Track Order</a>
-
-|
-
-  <a data-toggle="modal" href="#modal-contact" class="link-dark-not-underline">Contact</a> 
-
-</div>
-
-
 <div class="col-md-12">
 <hr />
 </div>
